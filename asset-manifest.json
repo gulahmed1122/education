@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/education/static/css/main.17e7ea9f.css",
+    "main.js": "/education/static/js/main.7b802b23.js",
+    "static/js/453.96453769.chunk.js": "/education/static/js/453.96453769.chunk.js",
+    "static/media/banner.png": "/education/static/media/banner.0cd7558007882b61d7cf.png",
+    "static/media/groupimg.png": "/education/static/media/groupimg.31970d1e506c25b28a87.png",
+    "static/media/logo.svg": "/education/static/media/logo.3136e923ec17c56ee3f310069597ac1b.svg",
+    "index.html": "/education/index.html",
+    "main.17e7ea9f.css.map": "/education/static/css/main.17e7ea9f.css.map",
+    "main.7b802b23.js.map": "/education/static/js/main.7b802b23.js.map",
+    "453.96453769.chunk.js.map": "/education/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e7ea9f.css",
+    "static/js/main.7b802b23.js"
+  ]
+}
