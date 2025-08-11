@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero-content">
-        <h3 className="hero-tagline">Online E-Learing Courses</h3>
+        <h2 className="hero-tagline">Online E-Learing Courses</h2>
        <span>
          <h1 className="hero-heading">Creating a Better Future through Education</h1>
          </span>

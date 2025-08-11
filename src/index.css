@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -6,8 +6,126 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+ /* BANNER SECTION */
+ .custom-banner-section {
+  background-size: cover;
+  background-position: center;
+  height: 650px;
+  position: relative;
+  overflow: hidden;
+}
+.custom-banner-section .overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 41, 53, 0.90);/* Blue overlay */
+  z-index: 0;
+}
+.custom-banner-section .content {
+  position: relative;
+  z-index: 1;
+}
+/* INSTRUCTOR *//* INSTRUCTOR */
+.instructor-img-wrapper {
+  width: 140px; /* Increased size */
+  height: 140px;
+  overflow: hidden;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.instructor-img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 5px solid #fff;
+  transition: transform 0.3s ease;
+}
+
+.instructor-img-wrapper:hover img {
+  transform: scale(1.08); /* Slightly more scale */
+}
+
+.social-icons-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(223, 152, 212, 0.7);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+  gap: 12px;
+}
+
+.instructor-img-wrapper:hover .social-icons-overlay {
+  opacity: 1;
+}
+
+.social-icons-overlay a {
+  color: white;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.social-icons-overlay a:hover {
+  color: #2244f1;
+}
+
+/* Card customization */
+.instructor-card {
+  height: 830px; /* Increased height */
+  padding: 2rem 1rem;
+  font-size: 1rem;
+}
+
+.instructor-card h5 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.instructor-card p {
+  font-size: 1rem;
+}
+
+.instructor-card .small {
+  font-size: 0.95rem;
+}
+/* VIDEO */
+.video-section {
+  padding: 60px 0;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.video-wrapper {
+  position: relative;
+  width: 640px;
+  max-width: 90%;
+  border-radius: 20px;
+  overflow: hidden;
+  z-index: 1;
+}
+.video-wrapper::after {
+  content: '';
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  bottom: -15px;
+  left: -15px;
+  border: 2px dashed #ccc;
+  border-radius: 25px;
+  z-index: -1;
+}
+.custom-video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 20px;
 }
