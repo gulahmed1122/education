@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/education/static/css/main.76297c82.css",
-    "main.js": "/education/static/js/main.0a5cd29b.js",
+    "main.css": "/education/static/css/main.39da6843.css",
+    "main.js": "/education/static/js/main.bf57f6a9.js",
     "static/js/453.96453769.chunk.js": "/education/static/js/453.96453769.chunk.js",
     "static/media/working.png": "/education/static/media/working.86949def55d209b9f6d0.png",
     "static/media/banner.png": "/education/static/media/banner.0cd7558007882b61d7cf.png",
@@ -9,7 +9,10 @@
     "static/media/103.jpg": "/education/static/media/103.642d32587c20e7c4bd8f.jpg",
     "static/media/102.jpg": "/education/static/media/102.f3d3e639dc6c1a39058d.jpg",
     "static/media/101.jpg": "/education/static/media/101.761854f0082627bf572b.jpg",
+    "static/media/51.jpg": "/education/static/media/51.d6f1da1ff30d1fd124f9.jpg",
     "static/media/104.jpg": "/education/static/media/104.d54db7c623a8249c3969.jpg",
+    "static/media/50.jpg": "/education/static/media/50.5e2f092ea853ee6adb27.jpg",
+    "static/media/53.jpg": "/education/static/media/53.094b15fee1402c77b8e5.jpg",
     "static/media/3.png": "/education/static/media/3.f1e0adfce2018823146b.png",
     "static/media/2.png": "/education/static/media/2.edf289f5dd42d0f7c05e.png",
     "static/media/1.png": "/education/static/media/1.22616869bf69c5124721.png",
@@ -17,13 +20,17 @@
     "static/media/106.jpg": "/education/static/media/106.4d39c7052849ff9fc446.jpg",
     "static/media/groupimg.png": "/education/static/media/groupimg.31970d1e506c25b28a87.png",
     "static/media/logo.svg": "/education/static/media/logo.3136e923ec17c56ee3f310069597ac1b.svg",
+    "static/media/slick.svg": "/education/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/education/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/education/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/education/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/education/index.html",
-    "main.76297c82.css.map": "/education/static/css/main.76297c82.css.map",
-    "main.0a5cd29b.js.map": "/education/static/js/main.0a5cd29b.js.map",
+    "main.39da6843.css.map": "/education/static/css/main.39da6843.css.map",
+    "main.bf57f6a9.js.map": "/education/static/js/main.bf57f6a9.js.map",
     "453.96453769.chunk.js.map": "/education/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76297c82.css",
-    "static/js/main.0a5cd29b.js"
+    "static/css/main.39da6843.css",
+    "static/js/main.bf57f6a9.js"
   ]
 }
