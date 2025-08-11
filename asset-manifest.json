@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/education/static/css/main.68de0440.css",
-    "main.js": "/education/static/js/main.b3a39fb4.js",
+    "main.css": "/education/static/css/main.76297c82.css",
+    "main.js": "/education/static/js/main.0a5cd29b.js",
     "static/js/453.96453769.chunk.js": "/education/static/js/453.96453769.chunk.js",
+    "static/media/working.png": "/education/static/media/working.86949def55d209b9f6d0.png",
     "static/media/banner.png": "/education/static/media/banner.0cd7558007882b61d7cf.png",
     "static/media/about.png": "/education/static/media/about.507f9b753aae08c858ce.png",
     "static/media/103.jpg": "/education/static/media/103.642d32587c20e7c4bd8f.jpg",
     "static/media/102.jpg": "/education/static/media/102.f3d3e639dc6c1a39058d.jpg",
     "static/media/101.jpg": "/education/static/media/101.761854f0082627bf572b.jpg",
     "static/media/104.jpg": "/education/static/media/104.d54db7c623a8249c3969.jpg",
+    "static/media/3.png": "/education/static/media/3.f1e0adfce2018823146b.png",
+    "static/media/2.png": "/education/static/media/2.edf289f5dd42d0f7c05e.png",
+    "static/media/1.png": "/education/static/media/1.22616869bf69c5124721.png",
+    "static/media/4.png": "/education/static/media/4.c2d3c0c2b5d6bb9e8eb7.png",
     "static/media/106.jpg": "/education/static/media/106.4d39c7052849ff9fc446.jpg",
     "static/media/groupimg.png": "/education/static/media/groupimg.31970d1e506c25b28a87.png",
     "static/media/logo.svg": "/education/static/media/logo.3136e923ec17c56ee3f310069597ac1b.svg",
     "index.html": "/education/index.html",
-    "main.68de0440.css.map": "/education/static/css/main.68de0440.css.map",
-    "main.b3a39fb4.js.map": "/education/static/js/main.b3a39fb4.js.map",
+    "main.76297c82.css.map": "/education/static/css/main.76297c82.css.map",
+    "main.0a5cd29b.js.map": "/education/static/js/main.0a5cd29b.js.map",
     "453.96453769.chunk.js.map": "/education/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68de0440.css",
-    "static/js/main.b3a39fb4.js"
+    "static/css/main.76297c82.css",
+    "static/js/main.0a5cd29b.js"
   ]
 }
