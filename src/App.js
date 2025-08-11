@@ -9,7 +9,10 @@ import Eightcards from'./components/eightcards';
 import BannerSection from './components/banner';
 import InstructorCards from './components/instructor';
 import VideoSection from './components/video';
-
+import Studentreviews from './components/Studentreviews';
+// import Logosection from './components/logosection';
+import Lastcards from './components/lastcards';
+import Footer from './components/footer';
 function App() {
   return (
     <div>
@@ -23,6 +26,10 @@ function App() {
       <BannerSection/>
       <InstructorCards/>
       <VideoSection/>
+      <Studentreviews/>
+      {/* <Logosection/> */}
+      <Lastcards/>
+      <Footer/>
     </div>
   );
 }
