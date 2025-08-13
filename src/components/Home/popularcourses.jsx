@@ -1,11 +1,11 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../App.css";
-import img1 from '../assets/images/101.jpg';
-import img2 from '../assets/images/102.jpg';
-import img3 from '../assets/images/103.jpg';
-import img4 from '../assets/images/104.jpg';
-import img6 from '../assets/images/106.jpg';
+import "../../App.css";
+import img1 from '../../assets/images/101.jpg';
+import img2 from '../../assets/images/102.jpg';
+import img3 from '../../assets/images/103.jpg';
+import img4 from '../../assets/images/104.jpg';
+import img6 from '../../assets/images/106.jpg';
 
 const courses = [
   {

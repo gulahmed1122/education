@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../index.css";
-import bannerImg from "../assets/images/working.png";
+import "../../index.css";
+import bannerImg from "../../assets/images/working.png";
 
 
 const BannerSection = () => {

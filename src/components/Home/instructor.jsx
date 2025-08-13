@@ -1,12 +1,12 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../index.css";
+import "../../index.css";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaUserGraduate, FaBook } from "react-icons/fa";
 
-import instructor1 from "../assets/images/1.png";
-import instructor2 from "../assets/images/2.png";
-import instructor3 from "../assets/images/3.png";
-import instructor4 from "../assets/images/4.png";
+import instructor1 from "../../assets/images/1.png";
+import instructor2 from "../../assets/images/2.png";
+import instructor3 from "../../assets/images/3.png";
+import instructor4 from "../../assets/images/4.png";
 
 const instructors = [
   {

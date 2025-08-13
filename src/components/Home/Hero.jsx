@@ -1,8 +1,8 @@
 // src/components/Hero.jsx
 import React from 'react';
-import '../App.css';
-import heroImg from '../assets/images/banner.png'; 
-import Happystu from '../assets/images/groupimg.png';
+import '../../App.css';
+import heroImg from '../../assets/images/banner.png'; 
+import Happystu from '../../assets/images/groupimg.png';
 // import usersImg from '../assets/images/users.png'; // group of user icons
 
 const Hero = () => {

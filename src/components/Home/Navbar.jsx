@@ -1,6 +1,10 @@
 import React from 'react';
-import '../App.css';
-import logo from '../assets/images/logo.svg';
+import '../../App.css';
+import logo from '../../assets/images/logo.svg';
+import { NavLink } from "react-router-dom";
+
+
+
 
 const Navbar = () => {
   return (
@@ -11,13 +15,20 @@ const Navbar = () => {
       </div>
 
       {/* Center: Nav Links */}
-      <ul className="nav-links">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#courses">Courses</a></li>
-        <li><a href="#pages">Pages</a></li>
-        <li><a href="#blog">Blog</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
+ <ul className="nav-links">
+  <li>
+    <NavLink to="/">Home</NavLink>
+  </li>
+  <li>
+    <NavLink to="/courses">Course</NavLink>
+  </li>
+  <li>
+  <NavLink to="/pages">Pages</NavLink>
+</li>
+  <li><a href="#blog">Blog</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+
 
       {/* Right: Icons + Button */}
       <div className="nav-right-box">

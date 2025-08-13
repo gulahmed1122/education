@@ -1,7 +1,7 @@
 import React from "react";
-import img1 from '../assets/images/50.jpg';
-import img2 from '../assets/images/51.jpg';
-import img3 from '../assets/images/53.jpg';
+import img1 from '../../assets/images/50.jpg';
+import img2 from '../../assets/images/51.jpg';
+import img3 from '../../assets/images/53.jpg';
 
 export default function LatestBlogSection() {
   const cards = [
